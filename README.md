@@ -1,6 +1,6 @@
-#Blockchain
+# Blockchain
 
-#Kaip veikia:
+# Kaip veikia:
 
 1. PAsileidžiame programą
 2. Pasirenkame ką norime daryti 
@@ -16,7 +16,7 @@
 
 8. Blockchain gaminimas
 
-#Veikimo principas:
+# Veikimo principas:
 
 Pool sudarytas iš Tranzakcios ID siuntejo hash gavėjo hash ir siunčiamos sumos
 
