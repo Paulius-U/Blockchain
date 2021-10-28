@@ -24,6 +24,8 @@ Pasirenkami 100 tranzakcijų iš mūsų sudaryto pool
 
 Tada kiekviena tranzakcija yra tikrinama ar gali būti įvygdyta pvz. ar nesiunčiama per daug pinigų negu turi siuntėjas
 
+Tranzakcijos kurios yra sudedamos į block yra rodomos ekrane kad lengviau matyti tranzakcija kurios praejo 
+
 visos tranzakcijos yra sudedamos į block 
 
 Blokas sudarytas taip pat iš senesnio block hash dabartinio hash timestamp ir Norce number
